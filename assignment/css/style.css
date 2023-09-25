@@ -1,0 +1,18 @@
+section{
+    background: red;
+    display: flex;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+body{ 
+    background-color: grey;  
+}
+P{
+    color: white;
+    display: felx;
+    margin: 80px;
+    background: green;
+    border:  80px solid blue;
+    padding: 80px;
+}
